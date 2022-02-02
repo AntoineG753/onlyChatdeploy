@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/only-chat-front/static/css/main.c7a2ddba.css",
+    "main.js": "/only-chat-front/static/js/main.8457f8bf.js",
+    "static/media/logo.png": "/only-chat-front/static/media/logo.f98de53cafa93f535e91.png",
+    "index.html": "/only-chat-front/index.html",
+    "main.c7a2ddba.css.map": "/only-chat-front/static/css/main.c7a2ddba.css.map",
+    "main.8457f8bf.js.map": "/only-chat-front/static/js/main.8457f8bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a2ddba.css",
+    "static/js/main.8457f8bf.js"
+  ]
+}
